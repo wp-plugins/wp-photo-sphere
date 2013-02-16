@@ -57,6 +57,9 @@ example: `[sphere 42 autoload]` or `[sphere 42 width="300" height="150" autoload
 
 == Changelog ==
 
+= 1.1.1 =
+* Nothing new, just an error in the readme file
+
 = 1.1 =
 * Autoload attribute
 
@@ -64,6 +67,9 @@ example: `[sphere 42 autoload]` or `[sphere 42 width="300" height="150" autoload
 * First official release
 
 == Upgrade Notice ==
+
+= 1.1.1 =
+* There was an error in the readme file...
 
 = 1.1 =
 * Autoload attribute
